@@ -1,4 +1,4 @@
-# 🧾 Sistema PDV (Ponto de Venda) - API REST
+# 🖥️ Sistema PDV (Ponto de Venda) - API REST
 
 Projeto backend desenvolvido com **Java e Spring Boot**, com foco na construção de uma API REST para gerenciamento de produtos em um sistema de Ponto de Venda (PDV), com persistência em banco de dados relacional.
 
