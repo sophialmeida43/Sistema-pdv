@@ -13,6 +13,7 @@ A aplicação implementa operações completas de CRUD para produtos, com uso de
 - Spring Web
 - Spring Data JPA
 - DTOs (Data Transfer Objects)
+- SpringDoc OpenAPI (Swagger)
 - Maven
 - MySQL
 - MariaDB
@@ -112,6 +113,7 @@ Além disso, segue uma arquitetura padrão baseada em separação de responsabil
 # 🔧 Testes da API
 
 Toda a API foi testada utilizando **Postman**, permitindo validação visual e funcional de todas as operações CRUD.
+lém disso, foi utilizada a interface do **Swagger (SpringDoc OpenAPI)** para documentar a API e realizar testes rápidos dos endpoints diretamente pelo navegador.
 
 ---
 
@@ -121,6 +123,7 @@ Toda a API foi testada utilizando **Postman**, permitindo validação visual e f
 - Praticar persistência com banco de dados relacional
 - Utilizar múltiplos ambientes com Spring Profiles
 - Utilizar DTOs para melhor controle de dados
+- Documentar APIs utilizando Swagger (OpenAPI)
 - Praticar boas práticas de desenvolvimento backend
 - Simular um sistema real de gerenciamento de produtos em PDV
 
